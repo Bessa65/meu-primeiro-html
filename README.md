@@ -1,2 +1,3 @@
 # meu-primeiro-html
-o iuri me ajudou
+Tentei fazer uma landing page, mas o q eu fiz foi uma tristeza.
+
